@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericInput", "NumericInput\NumericInput.csproj", "{CBA362A1-1B0C-46AD-A4D7-3AE367F520B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "..\Test\WpfApplication1\WpfApplication1\WpfApplication1.csproj", "{8D1D3657-2114-430F-8860-1E8023E0D6B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA362A1-1B0C-46AD-A4D7-3AE367F520B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA362A1-1B0C-46AD-A4D7-3AE367F520B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA362A1-1B0C-46AD-A4D7-3AE367F520B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA362A1-1B0C-46AD-A4D7-3AE367F520B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1D3657-2114-430F-8860-1E8023E0D6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1D3657-2114-430F-8860-1E8023E0D6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1D3657-2114-430F-8860-1E8023E0D6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1D3657-2114-430F-8860-1E8023E0D6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
